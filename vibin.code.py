@@ -86,7 +86,7 @@ elif x==2:
         print()
         print("Invalid choice")
 elif x==3:
-    webbrowser.open_new('https://drive.google.com/drive/folders/11rTxSvSeLj2yFFb2TDWO-nlX1panEKTY')
+    webbrowser.open_new('https://drive.google.com/drive/folders/1c0vfVDFHgocgTn1WmrrFnIEkfY4WiHZz?usp=share_link')
 else:
     print()
     print("Invalid choice")
