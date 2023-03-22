@@ -1,7 +1,7 @@
 import webbrowser
 a=str(input('Enter your name '))
 print()
-print('Hey ', a, ' welcome to Vibin')
+print('Hey ', a, ' welcome to Vibin: ')
 print()
 print('''Enter 1 for Songs
 Enter 2 for Audio stories
