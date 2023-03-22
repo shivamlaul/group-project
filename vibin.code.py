@@ -1,5 +1,5 @@
 import webbrowser
-a=str(input('Enter your name '))
+a=str(input('Enter your name: '))
 print()
 print('Hey ', a, ' welcome to Vibin: ')
 print()
